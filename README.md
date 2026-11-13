@@ -1,6 +1,6 @@
 # Data-entry-portfolio
 
-Tjis is my Data Entry Portfolio, a collection of projects created to demonstrate my data entry, data organization, and spreadsheet management skills. 
+This is my Data Entry Portfolio, a collection of projects created to demonstrate my data entry, data organization, and spreadsheet management skills. 
 
 Each project simulates a real-world business scenario and showcases my ability to accurately convert, organize, clean, and format data using Google Sheets.
 

@@ -6,7 +6,7 @@ Each project simulates a real-world business scenario and showcases my ability t
 
 # Portfolio Projects:
 
-# Receipt Data;
+# Receipt Data:
 Recorded receipt information into a structured spreadsheet while ensuring consistency and accuracy of financial records.
 
 # Business Cards:
